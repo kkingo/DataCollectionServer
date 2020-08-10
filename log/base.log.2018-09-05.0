@@ -1,0 +1,15 @@
+2018-09-05 09:39:04,283 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 17100 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-09-05 09:39:04,288 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-09-05 09:39:06,193 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.092 seconds (JVM running for 3.197)
+2018-09-05 09:39:23,099 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 9264 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-09-05 09:39:23,101 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-09-05 09:39:25,056 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.187 seconds (JVM running for 2.814)
+2018-09-05 09:39:53,334 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 9680 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-09-05 09:39:53,336 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-09-05 09:39:55,183 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.054 seconds (JVM running for 2.902)
+2018-09-05 09:45:35,116 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 18348 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-09-05 09:45:35,121 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-09-05 09:45:37,146 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.293 seconds (JVM running for 3.013)
+2018-09-05 10:42:54,396 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 8228 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-09-05 10:42:54,398 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-09-05 10:42:57,496 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 3.313 seconds (JVM running for 4.003)

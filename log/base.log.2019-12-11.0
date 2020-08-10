@@ -1,0 +1,24 @@
+2019-12-11 21:26:41,346 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 23836 (started by King in E:\java\v2itest)
+2019-12-11 21:26:41,347 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-12-11 21:26:45,400 INFO (StartupInfoLogger.java:57)- Started TestEnum in 4.434 seconds (JVM running for 5.691)
+2019-12-11 21:58:22,477 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 25612 (started by King in E:\java\v2itest)
+2019-12-11 21:58:22,514 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-12-11 21:58:25,091 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.084 seconds (JVM running for 4.036)
+2019-12-11 21:58:56,511 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 10700 (started by King in E:\java\v2itest)
+2019-12-11 21:58:56,512 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-12-11 21:58:59,138 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.113 seconds (JVM running for 4.032)
+2019-12-11 22:00:14,130 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 34612 (started by King in E:\java\v2itest)
+2019-12-11 22:00:14,130 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-12-11 22:00:16,891 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.243 seconds (JVM running for 4.199)
+2019-12-11 22:01:34,112 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 25068 (started by King in E:\java\v2itest)
+2019-12-11 22:01:34,113 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-12-11 22:01:37,035 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.447 seconds (JVM running for 4.499)
+2019-12-11 22:02:40,920 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 23868 (started by King in E:\java\v2itest)
+2019-12-11 22:02:40,923 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-12-11 22:02:43,571 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.048 seconds (JVM running for 4.327)
+2019-12-11 22:23:05,121 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 29580 (started by King in E:\java\v2itest)
+2019-12-11 22:23:05,121 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-12-11 22:23:08,396 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.763 seconds (JVM running for 4.839)
+2019-12-11 22:36:49,030 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 33176 (started by King in E:\java\v2itest)
+2019-12-11 22:36:49,031 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-12-11 22:36:52,399 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.899 seconds (JVM running for 4.95)

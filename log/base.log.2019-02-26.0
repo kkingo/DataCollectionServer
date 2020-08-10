@@ -1,0 +1,14 @@
+2019-02-26 20:03:19,698 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 23280 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2019-02-26 20:03:19,703 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-02-26 20:05:57,390 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 3136 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2019-02-26 20:05:57,393 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-02-26 20:25:57,449 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 27608 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2019-02-26 20:25:57,452 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-02-26 20:28:37,105 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 23772 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2019-02-26 20:28:37,107 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-02-26 20:41:57,195 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 22648 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2019-02-26 20:41:57,197 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-02-26 20:41:59,199 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.305 seconds (JVM running for 3.062)
+2019-02-26 20:53:56,164 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 18196 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2019-02-26 20:53:56,166 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-02-26 20:53:58,192 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.356 seconds (JVM running for 3.113)

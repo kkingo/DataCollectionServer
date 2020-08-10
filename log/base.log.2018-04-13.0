@@ -1,0 +1,18 @@
+2018-04-13 11:08:12,926 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on Lab615-Keith with PID 9876 (started by admin in E:\Code\Java Code\Java Code\v2itest)
+2018-04-13 11:08:12,935 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-04-13 11:08:17,739 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 5.153 seconds (JVM running for 9.718)
+2018-04-13 14:52:24,014 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on Lab615-Keith with PID 6592 (started by admin in E:\Code\Java Code\Java Code\v2itest)
+2018-04-13 14:52:24,016 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-04-13 14:52:26,137 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.551 seconds (JVM running for 3.418)
+2018-04-13 15:06:57,938 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on Lab615-Keith with PID 1804 (started by admin in E:\Code\Java Code\Java Code\v2itest)
+2018-04-13 15:06:57,940 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-04-13 15:06:59,939 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.344 seconds (JVM running for 3.165)
+2018-04-13 15:15:30,941 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on Lab615-Keith with PID 2836 (started by admin in E:\Code\Java Code\Java Code\v2itest)
+2018-04-13 15:15:30,942 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-04-13 15:15:33,633 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.996 seconds (JVM running for 3.815)
+2018-04-13 16:01:13,580 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on Lab615-Keith with PID 1712 (started by admin in E:\Code\Java Code\Java Code\v2itest)
+2018-04-13 16:01:13,589 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-04-13 16:01:16,269 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 3.088 seconds (JVM running for 4.055)
+2018-04-13 16:02:18,601 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on Lab615-Keith with PID 7972 (started by admin in E:\Code\Java Code\Java Code\v2itest)
+2018-04-13 16:02:18,603 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-04-13 16:02:21,180 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 3.036 seconds (JVM running for 3.989)

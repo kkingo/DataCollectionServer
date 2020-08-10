@@ -1,0 +1,33 @@
+2018-05-10 09:51:14,244 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 6452 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 09:51:14,248 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 09:51:17,468 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 3.476 seconds (JVM running for 5.385)
+2018-05-10 09:54:21,013 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 11068 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 09:54:21,015 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 09:54:23,666 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.918 seconds (JVM running for 4.14)
+2018-05-10 09:55:08,647 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 2212 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 09:55:08,649 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 09:55:11,008 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.661 seconds (JVM running for 3.603)
+2018-05-10 11:13:48,304 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 11724 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 11:13:48,306 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 11:13:51,239 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 3.204 seconds (JVM running for 4.21)
+2018-05-10 11:14:20,941 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 14120 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 11:14:20,944 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 11:14:22,750 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.023 seconds (JVM running for 2.722)
+2018-05-10 11:15:29,040 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 11424 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 11:15:29,042 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 11:15:31,427 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.63 seconds (JVM running for 3.595)
+2018-05-10 11:17:49,263 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 15952 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 11:17:49,265 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 11:17:51,604 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.593 seconds (JVM running for 3.482)
+2018-05-10 16:01:52,248 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 17952 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 16:01:52,253 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 16:01:54,559 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.596 seconds (JVM running for 3.428)
+2018-05-10 16:03:51,433 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 16856 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 16:03:51,435 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 16:03:53,702 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.555 seconds (JVM running for 3.276)
+2018-05-10 16:03:57,991 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 17904 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 16:03:57,993 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 16:04:00,065 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.325 seconds (JVM running for 3.043)
+2018-05-10 16:04:05,102 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on DESKTOP-U3JE6B2 with PID 7624 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2018-05-10 16:04:05,105 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2018-05-10 16:04:07,601 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.739 seconds (JVM running for 3.648)

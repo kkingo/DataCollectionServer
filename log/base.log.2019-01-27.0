@@ -1,0 +1,6 @@
+2019-01-27 11:32:45,619 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 23432 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2019-01-27 11:32:45,625 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-01-27 11:32:48,085 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.862 seconds (JVM running for 4.681)
+2019-01-27 11:54:35,907 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 18384 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2019-01-27 11:54:35,909 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-01-27 11:54:37,922 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 2.421 seconds (JVM running for 3.203)
