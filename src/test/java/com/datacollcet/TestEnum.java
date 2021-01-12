@@ -2,7 +2,6 @@ package com.datacollcet;
 
 
 import com.datacollcet.dao.V2iDataMapper;
-import com.datacollcet.pojo.Position;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mybatis.spring.annotation.MapperScan;

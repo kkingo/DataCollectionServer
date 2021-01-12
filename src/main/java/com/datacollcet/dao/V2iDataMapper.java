@@ -14,45 +14,6 @@ import java.util.Map;
 public interface V2iDataMapper {
     int insertData(@Param("data")V2IInformation data);
 
-    int insertFingerprint(FingerPrint fingerprint);
-
-    List<FingerPrint> getFingerprint();
-
-    int insertReadings(Readings readings);
-
-    int insertOfflineData(OfflineData data);
-
-    List<Readings> getReadings();
-
-    void insertPosition(Position position);
-
-    void insertMatchedTraj(Position position);
-
-    List<MyFingerPrint> getRefinedFingerprint();
-
-    void getMyFingerprint();
-
-    List<Subarea> getSubarea();
-
-    List<PixelMap> getPixelMap();
-
-    int insertMagReadings(Mag mag);
-
-    void insertNumbers(RecordNumber number);
-
-    void updateFingerprint(Relative relative);
-
-    void insertConvergence(Double convergence);
-
-    void insertStep(Steps step);
-
     int insertNNFingerprint(NNfingerprint nfingerprint);
 
-    List<Position> getPosition();
-
-    List<GradientFP> getGmap();
-
-    int insertMapsenseData();
-
-    int insertDrivingTraj(TrajInfo trajInfo);
 }
