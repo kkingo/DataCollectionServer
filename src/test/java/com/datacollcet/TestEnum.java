@@ -39,8 +39,9 @@ public class TestEnum {
 
     @Test
     public void test(){
-        System.out.println(truncation(3.1415f));
+        System.out.println(new Date());
     }
+
 
     private float truncation(float a){
         float a1 = ((float)Math.round(a*1000))/1000;

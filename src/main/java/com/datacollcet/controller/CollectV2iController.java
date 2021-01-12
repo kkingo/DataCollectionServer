@@ -43,6 +43,34 @@ public class CollectV2iController {
 
 
 //
+    @RequestMapping("qrcode")
+    @ResponseBody
+    public String qrcode(@RequestBody String jsonInfo) throws InterruptedException {
+        System.out.println(jsonInfo);
+        return "success";
+    }
+
+    @RequestMapping("getcontrol")
+    @ResponseBody
+    public String getcontrol(@RequestBody String jsonInfo) throws InterruptedException {
+        System.out.println(jsonInfo);
+        return "success";
+    }
+
+    @RequestMapping("uploadState")
+    @ResponseBody
+    public String uploatState(@RequestBody String jsonInfo) throws InterruptedException {
+        System.out.println(jsonInfo);
+        return "success";
+    }
+
+    @RequestMapping("uploadImage")
+    @ResponseBody
+    public String uploadimage(@RequestBody String jsonInfo) throws InterruptedException {
+        System.out.println(jsonInfo);
+        return "success";
+    }
+
     @RequestMapping("FingerprintCrowdsourcing")
     @ResponseBody
     public String fpCollect(@RequestBody String jsonInfo) throws InterruptedException {
@@ -106,6 +134,25 @@ public class CollectV2iController {
         return "success";
     return String.valueOf(insertAmount);
 }
+
+    @RequestMapping("fpsCollection")
+    @ResponseBody
+    public String fpsCollection(@RequestBody String jsonString) throws InterruptedException {
+        Gson gson = new Gson();
+        List<NNfingerprint> fps = gson.fromJson(jsonString, new TypeToken<List<NNfingerprint>>() {
+        }.getType());
+        SimpleDateFormat df = new SimpleDateFormat("yy-MM-dd HH:mm:ss");
+        int insertAmount = 0;
+        for (int i = 0; i < fps.size(); i++) {
+            System.out.println(fps.get(i).toString());
+            insertAmount += mapperdao.insertNNFingerprint(fps.get(i));
+            }
+        System.out.println("collected "+insertAmount+
+                " fingerprints\n at "+ fps.get(0).getRpid()+" is successfully stored" +
+                "\ncurrent time:"+df.format(System.currentTimeMillis()));
+        System.out.println("************************");
+        return String.valueOf(insertAmount);
+    }
 
 
 //  接收用户发送的fingerprint

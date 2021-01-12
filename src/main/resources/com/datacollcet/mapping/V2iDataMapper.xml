@@ -196,13 +196,14 @@
     <insert id="insertDrivingTraj">
         INSERT INTO driving_trajectory(
         TrajID,
-        startX,
-        startY,
+        StartPoint,
+        EndPoint,
         RSSI,
         direction,
         acceleration,
         gyro,
-        curtime
+        curtime,
+        devices
         ) VALUES (
           #{trajID},
           #{startX},
@@ -211,7 +212,8 @@
           #{orientReads},
           #{accReadings},
           #{gyroReadings},
-          #{timeStamp}
+          #{timeStamp},
+          #{macAddr}
         )
     </insert>
 

@@ -1,0 +1,24 @@
+2020-08-09 09:09:39,675 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 3284 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2020-08-09 09:09:39,678 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2020-08-09 09:09:42,549 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 3.246 seconds (JVM running for 5.112)
+2020-08-09 09:18:16,485 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 7188 (started by King in E:\java\v2itest)
+2020-08-09 09:18:16,485 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2020-08-09 09:18:19,241 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.05 seconds (JVM running for 4.504)
+2020-08-09 09:18:37,237 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 34080 (started by King in E:\java\v2itest)
+2020-08-09 09:18:37,238 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2020-08-09 09:18:40,143 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.335 seconds (JVM running for 4.406)
+2020-08-09 09:19:45,867 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 14928 (started by King in E:\java\v2itest)
+2020-08-09 09:19:45,867 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2020-08-09 09:19:48,818 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.294 seconds (JVM running for 4.435)
+2020-08-09 09:20:05,007 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 30048 (started by King in E:\java\v2itest)
+2020-08-09 09:20:05,008 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2020-08-09 09:20:07,700 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.176 seconds (JVM running for 4.333)
+2020-08-09 09:22:29,077 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 31928 (started by King in E:\java\v2itest)
+2020-08-09 09:22:29,077 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2020-08-09 09:22:32,029 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.329 seconds (JVM running for 4.423)
+2020-08-09 09:23:27,498 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 9788 (started by King in E:\java\v2itest)
+2020-08-09 09:23:27,499 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2020-08-09 09:23:30,205 INFO (StartupInfoLogger.java:57)- Started TestEnum in 3.085 seconds (JVM running for 4.158)
+2020-08-09 15:23:03,313 INFO (StartupInfoLogger.java:48)- Starting LixingdataApplication on projectK2 with PID 10536 (E:\java\v2itest\target\classes started by King in E:\java\v2itest)
+2020-08-09 15:23:03,318 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2020-08-09 15:23:06,229 INFO (StartupInfoLogger.java:57)- Started LixingdataApplication in 3.195 seconds (JVM running for 4.657)

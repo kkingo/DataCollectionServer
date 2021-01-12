@@ -1,0 +1,3 @@
+2021-01-08 15:21:07,894 INFO (StartupInfoLogger.java:48)- Starting TestEnum on projectK2 with PID 19736 (started by King in E:\java\v2itest)
+2021-01-08 15:21:07,896 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2021-01-08 15:21:11,849 INFO (StartupInfoLogger.java:57)- Started TestEnum in 4.911 seconds (JVM running for 6.692)
